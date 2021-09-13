@@ -1,0 +1,11 @@
+Name,eID,Gender,DateOfhire,EmploymentStatus,Position,PerformanceRating,NoOfProjects
+Brown,123A,Female,27-10-2008,Active,Sales Executive,3,4
+William  ,456B,Male,01-06-2014,Active,Admin,4,15
+Tyrone  ,789C,Male,29-09-2014,Active,Marketing,3,5
+Estelle,101D,Female,16-02-2015,Active,Admin,1,12
+Singh,112E,Female,01-05-2015,Active,Technician,3,3
+Smith,131F,Female,09-06-2011,Voluntarily Terminated,Technician,3,5
+Brandon,415G,Male,01-05-2016,Active,Technician,4,2
+Sean Quinn,161H,Male,21-02-2011,Voluntarily Terminated,Technician,4,1
+John,718I,Female,16-02-2015,Active,Manufacturing Director,1,10
+Johny Deep,675Z,Male,11-12-2008,Active,Manager,,
